@@ -1,0 +1,346 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="k-e0Y3nD0wZszLZ7yxL5">
+    <mxGraphModel dx="3138" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="r41gK0iHOa8E9MXNKJJs-1" target="r41gK0iHOa8E9MXNKJJs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-1" value="&lt;b&gt;Institucioni Shendetesor&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-4" value="&lt;b&gt;Institucioni Shendetesor&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="r41gK0iHOa8E9MXNKJJs-5" target="r41gK0iHOa8E9MXNKJJs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-5" value="&lt;b&gt;Dhururesi&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-6" value="&lt;b&gt;Dhururesi&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r41gK0iHOa8E9MXNKJJs-7" target="r41gK0iHOa8E9MXNKJJs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-7" value="Kerkesat per Gjak" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-8" value="Kerkesat per Gjak" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r41gK0iHOa8E9MXNKJJs-10" target="r41gK0iHOa8E9MXNKJJs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-10" value="Dhurimet dhe Inventari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-11" value="Dhurimet dhe Inventari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-12" value="Dhuruesit dhe Koordinimi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r41gK0iHOa8E9MXNKJJs-13" target="r41gK0iHOa8E9MXNKJJs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-13" value="Dhuruesit dhe Koordinimi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="150" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-27" value="Paraqet kerkesen per gjak" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="210" as="sourcePoint" />
+            <mxPoint x="230" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-31" value="Konfirmon regjistrimin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="160" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-33" value="Regjistron kerkesen" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="sourcePoint" />
+            <mxPoint x="530" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="280" as="sourcePoint" />
+            <mxPoint x="530" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-37" value="Kontrollon disponueshmerine e gjakut" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-38" value="Kthen sasine e disponueshme" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-40" value="Kontrollon njesite ne invetar" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="370" as="sourcePoint" />
+            <mxPoint x="830" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-43" value="Kerkohet koordinimi i dhuruesve" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="390" as="sourcePoint" />
+            <mxPoint x="830" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="500" as="sourcePoint" />
+            <mxPoint x="1100" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="460" as="sourcePoint" />
+            <mxPoint x="830" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-47" value="Identifikon dhuruesit e pershtatshem" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-48" value="Dergohet njoftimi per dhurim" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-49" value="Konfirmon pjesemarrjen" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="470" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="550" as="sourcePoint" />
+            <mxPoint x="830" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-51" value="Cakton terminin per dhurim" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="650" as="sourcePoint" />
+            <mxPoint x="830" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-55" value="Njofton per terminin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="620" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="720" as="sourcePoint" />
+            <mxPoint x="530" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-58" value="Paraqitet per dhurim" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="690" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="940" as="sourcePoint" />
+            <mxPoint x="530" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="860" as="sourcePoint" />
+            <mxPoint x="530" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="770" as="sourcePoint" />
+            <mxPoint x="530" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-62" value="Regjistron dhurimin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-63" value="Krijon njesine e gjakut" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-64" value="Perditeson inventarin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1040" as="sourcePoint" />
+            <mxPoint x="530" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1100" as="sourcePoint" />
+            <mxPoint x="530" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-68" value="Njofton per sasine e re" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1010" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-69" value="Kerkon rezervimin e njesive" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1070" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1130" as="sourcePoint" />
+            <mxPoint x="530" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="1320" as="sourcePoint" />
+            <mxPoint x="230" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="1210" as="sourcePoint" />
+            <mxPoint x="525" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1260" as="sourcePoint" />
+            <mxPoint x="230" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-75" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="1490" as="sourcePoint" />
+            <mxPoint x="525" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1410" as="sourcePoint" />
+            <mxPoint x="530" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1430" as="sourcePoint" />
+            <mxPoint x="530" y="1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-78" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="1600" as="sourcePoint" />
+            <mxPoint x="230" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1540" as="sourcePoint" />
+            <mxPoint x="230" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-81" value="Rezervon njesite e disponueshme" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-82" value="Konfirmon rezervimin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-83" value="Perditeson statusin e kerkeses" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-84" value="Njofton per plotesimin e kerkeses" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-85" value="Kerkon rezervimin e njesive" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-86" value="Rezervon njesite e disponueshme" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-88" value="Konfirmon rezervimin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1460" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-89" value="Konfirmon rezervimin" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1570" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-90" value="Perditeson statusin e kerkeses" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-91" value="[sasia e gjakut eshte e mjaftueshme]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1350" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-92" value="[sasia e gjakut nuk eshte e mjaftueshme]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="310" width="1200" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1350" width="1200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="r41gK0iHOa8E9MXNKJJs-96" value="alt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
